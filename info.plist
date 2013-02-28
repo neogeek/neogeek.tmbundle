@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>deleted</key>
+	<array>
+		<string>D80D5BE8-55D0-4914-9AA2-4579B3E8DBF6</string>
+		<string>E4ACB9C4-BAF7-4D13-B860-2616003DFA1A</string>
+	</array>
+	<key>mainMenu</key>
+	<dict>
+		<key>items</key>
+		<array>
+			<string>73A7918A-4FB1-4C88-8002-B5C59D5A68C3</string>
+			<string>E190C8D6-E5A9-4252-BBC8-357B5DE7930A</string>
+		</array>
+		<key>submenus</key>
+		<dict>
+			<key>73A7918A-4FB1-4C88-8002-B5C59D5A68C3</key>
+			<dict>
+				<key>items</key>
+				<array>
+					<string>A64B1C07-0BB5-4750-9D47-0D9255FF450E</string>
+					<string>33F81E55-A085-4B76-8006-36C089517AEA</string>
+					<string>C94DD012-6E60-4804-9107-637C8950436A</string>
+					<string>AB651517-0D7A-4266-B33F-B660983530D7</string>
+				</array>
+				<key>name</key>
+				<string>Templates</string>
+			</dict>
+			<key>E190C8D6-E5A9-4252-BBC8-357B5DE7930A</key>
+			<dict>
+				<key>items</key>
+				<array>
+					<string>DC87C7CE-712A-4623-92BA-3BB7D34DC541</string>
+					<string>FD4B2CB7-CE37-49DF-B70C-5E1806BF772D</string>
+					<string>A718526C-3B40-4052-AAD4-F713C0262447</string>
+					<string>------------------------------------</string>
+					<string>7BC56ADA-F950-4CFD-970B-49E9EFA2BB1B</string>
+					<string>47839EB6-86F7-4BE0-99E3-E808877A047E</string>
+				</array>
+				<key>name</key>
+				<string>Commands</string>
+			</dict>
+		</dict>
+	</dict>
+	<key>name</key>
+	<string>neogeek</string>
+	<key>ordering</key>
+	<array>
+		<string>A64B1C07-0BB5-4750-9D47-0D9255FF450E</string>
+		<string>33F81E55-A085-4B76-8006-36C089517AEA</string>
+		<string>C94DD012-6E60-4804-9107-637C8950436A</string>
+		<string>AB651517-0D7A-4266-B33F-B660983530D7</string>
+		<string>DC87C7CE-712A-4623-92BA-3BB7D34DC541</string>
+		<string>FD4B2CB7-CE37-49DF-B70C-5E1806BF772D</string>
+		<string>A718526C-3B40-4052-AAD4-F713C0262447</string>
+		<string>7BC56ADA-F950-4CFD-970B-49E9EFA2BB1B</string>
+		<string>47839EB6-86F7-4BE0-99E3-E808877A047E</string>
+	</array>
+	<key>uuid</key>
+	<string>7ED935CB-6093-402C-9F11-AE381C323EE6</string>
+</dict>
+</plist>

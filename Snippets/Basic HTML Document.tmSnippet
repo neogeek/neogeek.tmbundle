@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;!DOCTYPE html&gt;
+&lt;html&gt;
+&lt;head&gt;
+&lt;meta charset="utf-8" /&gt;
+&lt;title&gt;&lt;/title&gt;
+&lt;style type="text/css"&gt;
+
+* { margin: 0; padding: 0; }
+
+body {
+	margin: 10px;
+	font-family: 'Helvetica', 'Arial', sans-serif;
+	font-size: 16px;
+	line-height: 1.3em;
+}
+
+h1 {
+	font-weight: normal;
+	line-height: 1.3em;
+}
+
+a {
+	color: #00f;
+}
+
+pre {
+	font-family: 'Monaco', monospace;
+	font-size: 12px;
+	line-height: 1.3em;
+}
+
+&lt;/style&gt;
+&lt;/head&gt;
+
+&lt;body&gt;
+
+$1
+
+&lt;/body&gt;
+&lt;/html&gt;</string>
+	<key>name</key>
+	<string>Basic HTML Document</string>
+	<key>tabTrigger</key>
+	<string>html</string>
+	<key>uuid</key>
+	<string>A64B1C07-0BB5-4750-9D47-0D9255FF450E</string>
+</dict>
+</plist>
