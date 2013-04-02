@@ -8,9 +8,14 @@
 &lt;head&gt;
 &lt;meta charset="utf-8" /&gt;
 &lt;title&gt;&lt;/title&gt;
-&lt;style type="text/css"&gt;
+&lt;style&gt;
 
-* { margin: 0; padding: 0; }
+* {
+	margin: 0; padding: 0;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+}
 
 body {
 	margin: 10px;
