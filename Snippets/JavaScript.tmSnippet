@@ -3,11 +3,11 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>&lt;script&gt;
+	<string><![CDATA[<script>
 
 $1
 
-&lt;/script&gt;</string>
+</script>]]></string>
 	<key>name</key>
 	<string>JavaScript</string>
 	<key>tabTrigger</key>

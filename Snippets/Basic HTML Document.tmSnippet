@@ -3,13 +3,13 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>&lt;!DOCTYPE html&gt;
-&lt;html&gt;
-&lt;head&gt;
-&lt;meta charset="utf-8" /&gt;
-&lt;meta name="viewport" content="initial-scale=1" /&gt;
-&lt;title&gt;&lt;/title&gt;
-&lt;style&gt;
+	<string><![CDATA[<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="initial-scale=1" />
+<title></title>
+<style>
 
 * {
 	margin: 0; padding: 0;
@@ -19,7 +19,7 @@
 }
 
 body {
-	margin: 10px;
+	margin: 1em;
 	font-family: 'Helvetica', 'Arial', sans-serif;
 	font-size: 16px;
 	line-height: 1.3em;
@@ -36,19 +36,19 @@ a {
 
 pre {
 	font-family: 'Monaco', monospace;
-	font-size: 12px;
+	font-size: .8em;
 	line-height: 1.3em;
 }
 
-&lt;/style&gt;
-&lt;/head&gt;
+</style>
+</head>
 
-&lt;body&gt;
+<body>
 
 $1
 
-&lt;/body&gt;
-&lt;/html&gt;</string>
+</body>
+</html>]]></string>
 	<key>name</key>
 	<string>Basic HTML Document</string>
 	<key>tabTrigger</key>
