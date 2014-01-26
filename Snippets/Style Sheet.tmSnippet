@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string><![CDATA[<link rel="stylesheet" href="$1" />]]></string>
+	<string><![CDATA[<link rel="stylesheet" href="$1">]]></string>
 	<key>name</key>
 	<string>Style Sheet</string>
 	<key>tabTrigger</key>

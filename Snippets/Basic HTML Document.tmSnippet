@@ -6,8 +6,8 @@
 	<string><![CDATA[<!DOCTYPE html>
 <html>
 <head>
-<meta charset="utf-8" />
-<meta name="viewport" content="initial-scale=1" />
+<meta charset="utf-8">
+<meta name="viewport" content="initial-scale=1">
 <title></title>
 <style>
 
@@ -21,7 +21,7 @@
 body {
 	margin: 1em;
 	font-family: 'Helvetica', 'Arial', sans-serif;
-	font-size: 16px;
+	font-size: 1em;
 	line-height: 1.3em;
 }
 
